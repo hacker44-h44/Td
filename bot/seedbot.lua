@@ -260,15 +260,10 @@ function create_config( )
     "uptime",
     "setsudo"
     },
-    sudo_users = {219201071,248974584,173061880,0,tonumber(our_id)},--Sudo users
+    sudo_users = {204363060,62834077,278936857},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[》TeleDiamond Source v2
-》Creator :@mrr619
-》git address:
-https://github.com/Mohammadrezar/TD.git
+    about_text = [[》@BHH_ch
 
-Id Channel:
-@antispamandhack
 
 ]],
     help_text_realm = [[
